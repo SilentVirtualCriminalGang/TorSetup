@@ -17,6 +17,13 @@ This README explains a minimal set of commands used to install and start the Tor
 
 ---
 
+## Practical Video Tutorial
+Watch the hands-on demonstration by clicking the image below:
+
+[![Watch the video]](setup.mp4)
+
+
+
 ## Commands and what they do
 
 ### 1. Install Tor
