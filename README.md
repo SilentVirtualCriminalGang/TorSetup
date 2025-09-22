@@ -134,7 +134,7 @@ git push -u origin main
 ---
 
 ## Author
-Prepared by: Kazi (you can replace with your full name)
+Prepared by: Kazi Ashrafuzzaman
 
 ---
 
