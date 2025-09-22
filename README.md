@@ -16,11 +16,13 @@ This README explains a minimal set of commands used to install and start the Tor
 - Internet access to download packages.
 
 ---
+---
 
 ## Practical Video Tutorial
-Watch the hands-on demonstration by clicking the image below:
+For a hands-on demonstration, watch this practical video:  
+[Instagram Reel](https://www.instagram.com/reel/DO6QV0eER3u/?igsh=NnN2aTd3bGcyaHA3)
 
-[![Watch the video]](setup.mp4)
+---
 
 
 
@@ -150,13 +152,7 @@ Prepared by: Kazi Ashrafuzzaman
 
 
 
----
 
-## Practical Video Tutorial
-For a hands-on demonstration, watch this practical video:  
-[Instagram Reel](https://www.instagram.com/reel/DO6QV0eER3u/?igsh=NnN2aTd3bGcyaHA3)
-
----
 
 ## Credit
 Credit: **Kazi Ashrafuzzaman**
