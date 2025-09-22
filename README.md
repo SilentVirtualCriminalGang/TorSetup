@@ -1,7 +1,7 @@
 # Tor Setup and Basic Testing
 
 
-
+![Follow Now!](kazi.png) 
 
 ## Overview
 This README explains a minimal set of commands used to install and start the Tor service on a Debian/Ubuntu-based system, how to install `pip` for Python tools, and how to test whether Tor is working correctly. It also explains a couple of commonly used checks (Tor Project check and DNS leak test) and shows how to upload the README to GitHub.
