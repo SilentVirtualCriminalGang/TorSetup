@@ -1,6 +1,6 @@
 # Tor Setup and Basic Testing
 
-![Follow Now!](kazi.png)
+![Follow Now!](kazi.png) 
 
 
 ## Overview
